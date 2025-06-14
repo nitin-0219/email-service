@@ -16,13 +16,8 @@ Send HTML emails with dynamic templates and file attachments using Gmail SMTP. B
 4. Test via Swagger UI
 
 ## Tech Stack
-Java 17 · Spring Boot · Thymeleaf · Gmail SMTP · Docker
+Java 21 · Spring Boot · Thymeleaf · Gmail SMTP · Docker
 
 ## API Docs
 Visit `/swagger-ui.html`
 
-## Screenshots
-(Sample email output or Swagger UI)
-
-## License
-MIT
